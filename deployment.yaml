@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: cgsbuggy
-        image: 145988340565.dkr.ecr.us-west-2.amazonaws.com/cgs
+        image: 992382723499.dkr.ecr.us-west-2.amazonaws.com/cgs
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
